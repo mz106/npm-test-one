@@ -9,4 +9,7 @@ const secondFunction = (par) => {
     console.log(`Your number ${par} is ${squared} when squared.`)
 };
 
-module.exports = testFunction;
+module.exports = {
+    testFunction, 
+    secondFunction
+};
