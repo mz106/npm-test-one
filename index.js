@@ -16,5 +16,6 @@ const thirdFunction = (par1, par2) => {
 
 module.exports = {
     testFunction, 
-    secondFunction
+    secondFunction,
+    thirdFunction
 };
